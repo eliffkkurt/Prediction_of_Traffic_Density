@@ -1,6 +1,6 @@
 # Prediction of Traffic Density
 
-**Kodluyoruz - Data Science for Public Good (28.03.2020-20.06.2020)**
+**Kodluyoruz - Data Science for Public Good**
 
 In the program carried out in cooperation with The Istanbul Metropolitan Municipality, we developed a model that predicts traffic density, using the **traffic announcements** and **traffic density** data set from The Istanbul Metropolitan Municipality.
 
