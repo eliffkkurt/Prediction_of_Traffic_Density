@@ -20,4 +20,3 @@ Traffic density and traffic announcement data sets  were used for Esenler, Beşi
 - Gizem Göker
 - Fazile Akça
 - Betül Çelebi
-- Berk Sudan
